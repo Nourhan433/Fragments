@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="petrol">#74A8C4</color>
+    <color name="green">#216F6E</color>
+    <color name="baje">#C49C74</color>
+</resources>
